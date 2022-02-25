@@ -66,3 +66,8 @@ echo 10 === "10";
 | pipe
 \ back slash
 / slash
+
+<!-- perintah penting di git -->
+git add.
+git commit -m "menyelesaikan tugas/ menambahkan bagian terakhir pada tugas pertemuan ..."
+git push
