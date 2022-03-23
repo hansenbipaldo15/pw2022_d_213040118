@@ -17,7 +17,7 @@
     <li>Email : <?php echo $mhs[2]; ?></li>
     <li>Jurusan : <?php echo $mhs[3]; ?></li>
 </ul>
-<?php }?>
+<?php } ?>
 
 <!-- video yt -->
 <?php
