@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px){
+    .section-5 .doctor{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .section-5 .carousel-inner{
+        width: 24rem;
+    }
+}
